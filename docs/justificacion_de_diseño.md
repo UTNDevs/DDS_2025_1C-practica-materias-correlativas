@@ -1,2 +1,0 @@
-# Justificacion de diseño
-
